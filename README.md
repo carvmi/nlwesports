@@ -1,22 +1,22 @@
 # NLW eSports
 ![preview](./preview.png)
 
-> trilha explorer 
+> Explorer 
 
-Projeto realizado durante o evento Next Level Week da Rocketseat.
+Project realized during Rocketseat's Next Level Week event.
 
-🔗 [Clique aqui para acessar](https://carvmi.github.io/nlwesports/)
+🔗 [Click here to access](https://carvmi.github.io/nlwesports/)
 
-## Tecnologias 
+## Technologies 
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 
-## O que aprendi 
-- definir css transition usando hover e propriedade transform em scale 
-- definir css animation usando nth=child, propriedade transform em translateY ou X em keyframes
-- colocar borda gradiente usando "background-image: linear-gradient", pois divs não têm propriedades de texto
-- usar "display:flex" para manter os elementos lado a lado 
+## What I have learned
+- set css transition using hover and transform property on scale 
+- set css animation using nth=child, transform property on translateY or X on keyframes
+- set gradient border using "background-image: linear-gradient", because divs don't have text properties
+- use "display:flex" to keep elements side by side 
 
-## Contato
+## Contact
 milenadecarvalho2000@gmail.com
